@@ -29,3 +29,19 @@ Du coup j’ai pensé à ouvrir une page web directement dans l’application po
 
 A ce point de mes recherches il fallait savoir s’il est possible d’ouvrir une fenêtre web dans une app mobile faite avec « React Native ». J’ai trouvé dans la documentation d’expo que la fonction « openBrowserAsync » existe et qu’elle permet de faire cela.
 Après avoir créé une application test pour voir si elle ouvre bien le navigateur (ce qui a été réussi)
+
+#### Pas certains d'intégrer
+
+###### Stripe et PayPal
+
+Pour intégrer une expérience de paiement, « Expo » expose dans sa documentation un guide détaillé sur la mise en place et l’utilisation du kit de développement (Software Development Kit ou SDK) de « Stripe » pour « React Native » nommé « @stripe/stripe-react-native ».
+
+![alt text](image.png)
+
+
+https://docs.expo.dev/versions/latest/sdk/stripe/
+
+Pour plus de précision, le kit de développement « @stripe/stripe-react-native » est une bibliothèque d’outils pouvant être facilement utilisé avec Expo et qui permet d’intégrer les fonctionnalités de 
+ 
+Il y a deux exemples populaires Stripe et Paypal. 
+
